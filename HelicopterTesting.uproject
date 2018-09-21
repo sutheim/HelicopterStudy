@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HelicopterTesting",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "NoiseLibrary",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop"
+	]
+}
