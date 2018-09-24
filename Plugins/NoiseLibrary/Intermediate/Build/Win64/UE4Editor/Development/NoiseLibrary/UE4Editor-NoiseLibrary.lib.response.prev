@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NoiseLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.cpp.obj"
+"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.gen.cpp.obj"
+"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\PCLaunch.rc.res"
+/OUT:"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\UE4Editor-NoiseLibrary.lib"

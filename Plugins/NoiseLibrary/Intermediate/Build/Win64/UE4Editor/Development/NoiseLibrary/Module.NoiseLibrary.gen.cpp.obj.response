@@ -23,7 +23,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary\Private
+/I "J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -401,22 +401,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Inc\NoiseLibrary
-/I D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Source
-/I D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary\Public
-/I D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.14.26428\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Inc\NoiseLibrary"
+/I "J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Source"
+/I "J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary\Public"
+/I "J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Source\NoiseLibrary"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
-/FI"D:\UnrealProjects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\UnrealProjects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\UnrealProjects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.gen.cpp"
-/FI"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Definitions.NoiseLibrary.h"
-/Fo"D:\UnrealProjects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.gen.cpp.obj"
+/FI"J:\Dokumenter\Unreal Projects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"J:\Dokumenter\Unreal Projects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"J:\Dokumenter\Unreal Projects\HelicopterTesting\Intermediate\Build\Win64\HelicopterTestingEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.gen.cpp"
+/FI"J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Definitions.NoiseLibrary.h"
+/Fo"J:\Dokumenter\Unreal Projects\HelicopterTesting\Plugins\NoiseLibrary\Intermediate\Build\Win64\UE4Editor\Development\NoiseLibrary\Module.NoiseLibrary.gen.cpp.obj"
 /TP
 /GR-
 /W4
